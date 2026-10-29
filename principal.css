@@ -86,3 +86,16 @@ top: 0;
     
 
 }
+
+.cambiarok{
+height: 50px;
+ position: absolute;
+top: 30%;
+     left: 50%;
+     transform: translateX(-50%);
+     background-color:#00151b;
+font-family: 'Cormorant Garamond', serif;
+color:#b1eeff;
+border-radius: 10px;
+ box-shadow: 2px 2px 8px 4px #ffffff;
+}
